@@ -1,2 +1,2 @@
-# CHAsuka.github.io
+# chasuka.github.io
 Hexo blog
